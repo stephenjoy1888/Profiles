@@ -1,0 +1,17 @@
+# shopping
+# jd
+DOMAIN-SUFFIX,jd.com,PROXY
+DOMAIN-SUFFIX,360buyimg.com,PROXY
+# taobao
+DOMAIN-SUFFIX,taobao.com,PROXY
+# suning
+DOMAIN-SUFFIX,suning.com,PROXY
+DOMAIN-SUFFIX,suning.cn,PROXY
+# zdm
+DOMAIN-SUFFIX,smzdm.com,PROXY
+DOMAIN-SUFFIX,zdmimg.com,PROXY
+
+# video
+# bilibili
+DOMAIN-SUFFIX,bilibili.com,PROXY
+DOMAIN-SUFFIX,biliapi.com,PROXY
