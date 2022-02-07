@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,suning.cn,PROXY
 # zdm
 DOMAIN-SUFFIX,smzdm.com,PROXY
 DOMAIN-SUFFIX,zdmimg.com,PROXY
+# pdd
+DOMAIN-SUFFIX,pinduoduo.com,PROXY
+DOMAIN-SUFFIX,pddpic.com,PROXY
 
 # video
 # bilibili
