@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,pddpic.com,PROXY
 # bilibili
 DOMAIN-SUFFIX,bilibili.com,PROXY
 DOMAIN-SUFFIX,biliapi.com,PROXY
+DOMAIN-SUFFIX,bilivideo.cn,PROXY
