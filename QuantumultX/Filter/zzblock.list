@@ -1,24 +1,24 @@
 # shopping
 # jd
-DOMAIN-SUFFIX,jd.com,PROXY
-DOMAIN-SUFFIX,360buyimg.com,PROXY
+host-suffix,jd.com,PROXY
+host-suffix,360buyimg.com,PROXY
 # taobao
-DOMAIN-SUFFIX,taobao.com,PROXY
+host-suffix,taobao.com,PROXY
 # suning
-DOMAIN-SUFFIX,suning.com,PROXY
-DOMAIN-SUFFIX,suning.cn,PROXY
+host-suffix,suning.com,PROXY
+host-suffix,suning.cn,PROXY
 # zdm
-DOMAIN-SUFFIX,smzdm.com,PROXY
-DOMAIN-SUFFIX,zdmimg.com,PROXY
+host-suffix,smzdm.com,PROXY
+host-suffix,zdmimg.com,PROXY
 # pdd
-DOMAIN-SUFFIX,pinduoduo.com,PROXY
-DOMAIN-SUFFIX,pddpic.com,PROXY
+host-suffix,pinduoduo.com,PROXY
+host-suffix,pddpic.com,PROXY
 
 # video
 # bilibili
-DOMAIN-SUFFIX,bilibili.com,PROXY
-DOMAIN-SUFFIX,biliapi.com,PROXY
-DOMAIN-SUFFIX,bilivideo.cn,PROXY
+host-suffix,bilibili.com,PROXY
+host-suffix,biliapi.com,PROXY
+host-suffix,bilivideo.cn,PROXY
 
 # others
 # zhihu
