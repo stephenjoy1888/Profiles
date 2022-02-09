@@ -19,3 +19,7 @@ DOMAIN-SUFFIX,pddpic.com,PROXY
 DOMAIN-SUFFIX,bilibili.com,PROXY
 DOMAIN-SUFFIX,biliapi.com,PROXY
 DOMAIN-SUFFIX,bilivideo.cn,PROXY
+
+# others
+# zhihu
+host-suffix,zhimg.com,PROXY
