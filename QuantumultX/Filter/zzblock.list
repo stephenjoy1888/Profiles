@@ -2,14 +2,21 @@
 # jd
 host-suffix,jd.com,PROXY
 host-suffix,360buyimg.com,PROXY
+
 # taobao
 host-suffix,taobao.com,PROXY
+
+# xianyu
+host-suffix,goofish.com,PROXY
+
 # suning
 host-suffix,suning.com,PROXY
 host-suffix,suning.cn,PROXY
+
 # zdm
 host-suffix,smzdm.com,PROXY
 host-suffix,zdmimg.com,PROXY
+
 # pdd
 host-suffix,pinduoduo.com,PROXY
 host-suffix,pddpic.com,PROXY
@@ -19,6 +26,7 @@ host-suffix,pddpic.com,PROXY
 host-suffix,bilibili.com,PROXY
 host-suffix,biliapi.com,PROXY
 host-suffix,bilivideo.cn,PROXY
+host-suffix,b23.tv,PROXY
 
 # others
 # zhihu
