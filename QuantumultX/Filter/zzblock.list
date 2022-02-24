@@ -31,3 +31,8 @@ host-suffix,b23.tv,PROXY
 # others
 # zhihu
 host-suffix,zhimg.com,PROXY
+
+# mihome
+host-suffix,mi.com,PROXY
+host-suffix,xiaomiyoupin.com,PROXY
+host-suffix,xiaomi.net,PROXY
