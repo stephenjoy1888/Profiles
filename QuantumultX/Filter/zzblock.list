@@ -8,6 +8,7 @@ host-suffix,taobao.com,PROXY
 
 # xianyu
 host-suffix,goofish.com,PROXY
+host-suffix,m.tb.cn,PROXY
 
 # suning
 host-suffix,suning.com,PROXY
