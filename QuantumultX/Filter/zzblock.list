@@ -37,3 +37,7 @@ host-suffix,zhimg.com,PROXY
 host-suffix,mi.com,PROXY
 host-suffix,xiaomiyoupin.com,PROXY
 host-suffix,xiaomi.net,PROXY
+
+#nga
+host-suffix, ngabbs.com, PROXY
+host-suffix, nga.178.com, PROXY
