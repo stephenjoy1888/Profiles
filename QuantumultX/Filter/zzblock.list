@@ -41,3 +41,6 @@ host-suffix,xiaomi.net,PROXY
 #nga
 host-suffix, ngabbs.com, PROXY
 host-suffix, nga.178.com, PROXY
+
+#coolapk
+host-suffix, api.coolapk.com, PROXY
