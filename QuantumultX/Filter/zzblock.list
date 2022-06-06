@@ -45,3 +45,5 @@ host-suffix, nga.178.com, PROXY
 
 #coolapk
 host-suffix, api.coolapk.com, PROXY
+host-suffix, avatar.coolapk.com, PROXY
+host-suffix, image.coolapk.com, PROXY
