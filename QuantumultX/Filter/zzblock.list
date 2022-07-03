@@ -30,6 +30,7 @@ host-suffix,biliapi.com,PROXY
 host-suffix,bilivideo.cn,PROXY
 host-suffix,b23.tv,PROXY
 host-suffix,hdslb.com,PROXY
+host-suffix,bilivideo.com,PROXY
 
 # others
 # zhihu
