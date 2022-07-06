@@ -6,6 +6,7 @@ host-suffix,360buyimg.com,PROXY
 # taobao
 host-suffix,taobao.com,PROXY
 host-suffix,tmall.com,PROXY
+host-suffix,alicdn.com,PROXY
 
 # xianyu
 host-suffix,goofish.com,PROXY
