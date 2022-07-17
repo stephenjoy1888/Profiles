@@ -42,11 +42,11 @@ host-suffix,mi.com,PROXY
 host-suffix,xiaomiyoupin.com,PROXY
 host-suffix,xiaomi.net,PROXY
 
-#nga
-host-suffix, ngabbs.com, PROXY
-host-suffix, nga.178.com, PROXY
+# nga
+host-suffix,ngabbs.com,PROXY
+host-suffix,nga.178.com,PROXY
 
-#coolapk
-host-suffix, api.coolapk.com, PROXY
-host-suffix, avatar.coolapk.com, PROXY
-host-suffix, image.coolapk.com, PROXY
+# coolapk
+host-suffix,api.coolapk.com,PROXY
+host-suffix,avatar.coolapk.com,PROXY
+host-suffix,image.coolapk.com,PROXY
